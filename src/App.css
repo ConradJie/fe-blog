@@ -13,3 +13,13 @@
 .page-container img {
     width: 500px;
 }
+
+/*Aanpassing om de andere pagina's op een scherm te tonen*/
+.page-container {
+    height: 10%;
+    justify-content: start;
+}
+
+.page-container img {
+    width: 200px;
+}
